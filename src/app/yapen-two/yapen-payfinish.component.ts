@@ -6,6 +6,9 @@ import { Component, OnInit } from '@angular/core';
     <p>
       yapen-payfinish works!
     </p>
+    <p>
+      test1
+    </p>
   `,
   styles: []
 })
